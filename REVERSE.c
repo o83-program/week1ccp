@@ -6,7 +6,7 @@
 	clrscr();
 	printf("\n enter the number");
 	scanf("%d",&num);
-	printf("\ enter the reversed number");
+	printf("\n enter the reversed number");
 	while(num!=0)
 {
 	temp=num%10;
