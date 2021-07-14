@@ -4,9 +4,9 @@
 {
 	char str1[50],str2[50],i,j;
 	printf("\n enter the first string:");
-	scanf("%d",str1);
+	scanf("%s",str1);
 	printf("\n enter the second string:");
-	scanf("%d",str2);
+	scanf("%s",str2);
 	for(i=0;str1[i]!='\0';i++)
 {
 	for(j=0;str2[j]!='\0';j++)
